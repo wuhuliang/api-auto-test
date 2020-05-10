@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="速涡接口测试">
+    <test verbose="2" preserve-order="true" name="Login">
+        <classes>
+            <class name="com.lemon.api.auto.cases.LoginCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="Register">
+        <classes>
+            <class name="com.lemon.api.auto.cases.RegisterCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="ReCharge">
+        <classes>
+            <class name="com.lemon.api.auto.cases.RechargeCase">
+            </class>
+        </classes>
+    </test>
+</suite>

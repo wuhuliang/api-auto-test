@@ -1,0 +1,22 @@
+#target/
+target/
+
+# IDEA #
+.idea/
+ConsoleTest.java
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+
+# Log #
+logs/
+*.log%     
+
+#mac 
+.DS_Store
+
+#svn
+.svn
