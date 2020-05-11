@@ -10,6 +10,10 @@ public class Case {
     private String params;
     private String expectedResponseData;
     private String actualResponseData;
+    private String preValidateSql;
+    private String preValidateResult;
+    private String afterValidateSql;
+    private String afterValidateResult;
 
     public String getCaseId() {
         return caseId;
@@ -57,6 +61,38 @@ public class Case {
 
     public void setActualResponseData(String actualResponseData) {
         this.actualResponseData = actualResponseData;
+    }
+
+    public String getPreValidateSql() {
+        return preValidateSql;
+    }
+
+    public void setPreValidateSql(String preValidateSql) {
+        this.preValidateSql = preValidateSql;
+    }
+
+    public String getAfterValidateSql() {
+        return afterValidateSql;
+    }
+
+    public void setAfterValidateSql(String afterValidateSql) {
+        this.afterValidateSql = afterValidateSql;
+    }
+
+    public String getPreValidateResult() {
+        return preValidateResult;
+    }
+
+    public void setPreValidateResult(String preValidateResult) {
+        this.preValidateResult = preValidateResult;
+    }
+
+    public String getAfterValidateResult() {
+        return afterValidateResult;
+    }
+
+    public void setAfterValidateResult(String afterValidateResult) {
+        this.afterValidateResult = afterValidateResult;
     }
 
     @Override

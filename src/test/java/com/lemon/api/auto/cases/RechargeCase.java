@@ -7,7 +7,6 @@ public class RechargeCase extends BaseProcessor{
     @DataProvider
     public Object[][] datas() {
         String apiId = "4";
-        String cellnames[] = {"CaseId","ApiId","Params","ExpectedResponseData"};
         Object[][] datas = CaseUtil.getCaseDataByApiId(apiId,cellnames);
         return datas;
     }

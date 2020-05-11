@@ -3,7 +3,6 @@ package com.lemon.api.auto.util;
 import com.lemon.api.auto.pojo.Case;
 import com.lemon.api.auto.pojo.RestApi;
 import com.lemon.api.auto.pojo.WriteBackData;
-import com.lemon.api.auto.util.CaseUtil;
 import org.apache.poi.ss.usermodel.*;
 
 import java.io.*;
@@ -19,7 +18,7 @@ public class ExcelUtil {
     public static List<WriteBackData> writeBackDatas = new ArrayList<WriteBackData>();
 
     static{
-        loadRownumAndCellNumMapping("src\\test\\resources\\cases_v6.xlsx","用例");
+        loadRownumAndCellNumMapping("src\\test\\resources\\cases_v7.xlsx","用例");
     }
 
     /***

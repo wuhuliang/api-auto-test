@@ -12,7 +12,6 @@ public class LoginCase extends BaseProcessor{
     @DataProvider
     public Object[][] datas() {
         String apiId = "1";
-        String cellnames[] = {"CaseId","ApiId","Params","ExpectedResponseData"};
         Object[][] datas = CaseUtil.getCaseDataByApiId(apiId,cellnames);
         return datas;
     }

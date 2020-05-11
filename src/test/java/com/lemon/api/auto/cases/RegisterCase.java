@@ -12,7 +12,6 @@ public class RegisterCase extends BaseProcessor{
     @DataProvider
     public Object[][] datas() {
         String apiId = "2";
-        String cellnames[] = {"CaseId","ApiId","Params","ExpectedResponseData"};
         Object[][] datas = CaseUtil.getCaseDataByApiId(apiId,cellnames);
         return datas;
     }
