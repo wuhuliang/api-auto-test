@@ -13,7 +13,7 @@ public class RestUtil {
     public static List<RestApi> rests = new ArrayList<RestApi>();
 
     static {
-        String excelPath = "src\\test\\resources\\cases_v7.xlsx";
+        String excelPath = PropertiesUtil.getExcelPath();
         String sheetName = "接口信息";
         ExcelUtil.load(excelPath,sheetName, RestApi.class);
     }

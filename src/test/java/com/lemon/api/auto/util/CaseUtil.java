@@ -17,7 +17,7 @@ public class CaseUtil {
 
     static{
         //将所有数据解析封装到Cases
-        String excelPath = "src\\test\\resources\\cases_v7.xlsx";
+        String excelPath = PropertiesUtil.getExcelPath();
         String sheetName = "用例";
         ExcelUtil.load(excelPath,sheetName, Case.class);
     }

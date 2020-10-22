@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="771031f3-1de3-4846-afea-af7a39cf86e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/DBChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/DBQueryResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/DBCheckUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/JDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cases_v7.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/PropertiesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/BaseProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/BaseProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/LoginCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/LoginCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RechargeCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RechargeCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RegisterCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RegisterCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/Case.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/CaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/CaseUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/ExcelUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/RestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/RestUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/cases_v6.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/cases_v6.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cases_v6.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cases_v6.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/cases/BaseProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/cases/LoginCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/cases/LoginCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/cases/RechargeCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/cases/RechargeCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/cases/RegisterCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/cases/RegisterCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/pojo/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/pojo/Case.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/util/CaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/util/CaseUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/util/ExcelUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/util/ExcelUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/util/RestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lemon/api/auto/util/RestUtil.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,55 +22,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/CaseUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="249">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RegisterCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RechargeCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/LoginCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/BaseProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="40" column="91" selection-start-line="40" selection-start-column="91" selection-end-line="40" selection-end-column="91" />
+            <state relative-caret-position="966">
+              <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1999#2000#0" expanded="true" />
@@ -99,26 +45,99 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/ExcelUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/LoginCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="297" selection-start-line="297" selection-end-line="297" />
+            <state relative-caret-position="294">
+              <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#619#634#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/DBCheckUtil.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/AssertUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            <state relative-caret-position="84">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/JDBCUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-360">
+              <caret line="18" column="87" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/WriteBackData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/Case.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-66">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <element signature="e#1437#1438#0" expanded="true" />
+                <element signature="e#1474#1475#0" expanded="true" />
+                <element signature="e#1534#1535#0" expanded="true" />
+                <element signature="e#1586#1587#0" expanded="true" />
+                <element signature="e#1832#1833#0" expanded="true" />
+                <element signature="e#1872#1873#0" expanded="true" />
+                <element signature="e#1938#1939#0" expanded="true" />
+                <element signature="e#1996#1997#0" expanded="true" />
+                <element signature="e#2042#2043#0" expanded="true" />
+                <element signature="e#2084#2085#0" expanded="true" />
+                <element signature="e#2154#2155#0" expanded="true" />
+                <element signature="e#2216#2217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/DBCheckUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="35" column="78" selection-start-line="35" selection-start-column="78" selection-end-line="35" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/ExcelUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4119">
+              <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/HttpUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2019">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -153,16 +172,19 @@
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RegisterCase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/LoginCase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RechargeCase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/DBChecker.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/DBQueryResult.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/JDBCUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/RestUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/CaseUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/ExcelUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/Case.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RechargeCase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/DBCheckUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/Properties.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/PropertiesUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/CaseUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/RestUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/ExcelUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/BaseProcessor.java" />
       </list>
     </option>
@@ -177,10 +199,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-80" />
-    <option name="y" value="-22" />
-    <option name="width" value="1940" />
-    <option name="height" value="1068" />
+    <option name="x" value="2613" />
+    <option name="y" value="-15" />
+    <option name="width" value="877" />
+    <option name="height" value="846" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -188,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -345,13 +368,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589169053127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603383275698" />
     <property name="last_opened_file_path" value="E:/PyCharm_Projects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -385,7 +407,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.E:/java-dev/api_auto_test_release/testng.xml">
+  <component name="RunManager" selected="Application.DBCheckUtil">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -448,6 +470,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DBCheckUtil" />
+        <item itemvalue="TestNG.E:/java-dev/api_auto_test_release/testng.xml" />
         <item itemvalue="TestNG.E:/java-dev/api_auto_test_release/testng.xml" />
         <item itemvalue="Application.DBCheckUtil" />
       </list>
@@ -467,6 +491,18 @@
       <workItem from="1589078516882" duration="1249000" />
       <workItem from="1589080263847" duration="13689000" />
       <workItem from="1589167510495" duration="2094000" />
+      <workItem from="1589252019728" duration="597000" />
+      <workItem from="1590888376165" duration="1355000" />
+      <workItem from="1591109827126" duration="104000" />
+      <workItem from="1591111091185" duration="1125000" />
+      <workItem from="1591802899042" duration="169000" />
+      <workItem from="1592922783157" duration="45000" />
+      <workItem from="1596171326203" duration="79000" />
+      <workItem from="1596724020500" duration="1367000" />
+      <workItem from="1603187163890" duration="2168000" />
+      <workItem from="1603247233708" duration="10780000" />
+      <workItem from="1603280051620" duration="1414000" />
+      <workItem from="1603334659596" duration="6183000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1589083028468</created>
@@ -518,10 +554,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18187000" />
+    <option name="totallyTimeSpent" value="45704000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -529,7 +565,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17024128" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13326226" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -537,8 +573,8 @@
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32947975" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.4118497" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32819384" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.41079295" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.3017621" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -578,51 +614,123 @@
     <entry file="file://$PROJECT_DIR$/../api_auto_test_release_sql/src/test/java/com/lemon/api/auto/pojo/Case.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="jar://E:/Program Files (x86)/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="2108" selection-start-line="2108" selection-end-line="2108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RegisterCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RechargeCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/jdk-11.0.1/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="264" column="12" selection-start-line="264" selection-start-column="12" selection-end-line="264" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/RestApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/DBChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="42">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
           <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
             <element signature="e#392#393#0" expanded="true" />
             <element signature="e#442#443#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/DBQueryResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="378">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/jdk-11.0.1/lib/src.zip!/java.base/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1102" column="18" selection-start-line="1102" selection-start-column="18" selection-end-line="1102" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/PropertiesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/RestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -634,94 +742,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/CaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/DBCheckUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="78" selection-start-line="35" selection-start-column="78" selection-end-line="35" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/ExcelUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4119">
+          <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2235">
+        <state relative-caret-position="-2019">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/JDBCUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="-360">
+          <caret line="18" column="87" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#918#934#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/RestApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/WriteBackData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
+        <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Program Files (x86)/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="2108" selection-start-line="2108" selection-end-line="2108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RegisterCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/RechargeCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/LoginCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/CaseUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/Case.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+        <state relative-caret-position="-66">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding>
+            <element signature="e#1437#1438#0" expanded="true" />
             <element signature="e#1474#1475#0" expanded="true" />
             <element signature="e#1534#1535#0" expanded="true" />
             <element signature="e#1586#1587#0" expanded="true" />
@@ -737,10 +814,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/RestUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/LoginCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155">
-          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        <state relative-caret-position="294">
+          <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -749,33 +826,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/BaseProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="40" column="91" selection-start-line="40" selection-start-column="91" selection-end-line="40" selection-end-column="91" />
+        <state relative-caret-position="966">
+          <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1999#2000#0" expanded="true" />
             <element signature="e#2087#2088#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/ExcelUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="297" selection-start-line="297" selection-end-line="297" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#619#634#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/DBCheckUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

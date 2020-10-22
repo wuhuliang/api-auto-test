@@ -18,7 +18,7 @@ public class ExcelUtil {
     public static List<WriteBackData> writeBackDatas = new ArrayList<WriteBackData>();
 
     static{
-        loadRownumAndCellNumMapping("src\\test\\resources\\cases_v7.xlsx","用例");
+        loadRownumAndCellNumMapping(PropertiesUtil.getExcelPath(),"用例");
     }
 
     /***

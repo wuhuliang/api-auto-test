@@ -44,7 +44,7 @@ public class BaseProcessor {
 
     @AfterSuite
     public void batchWriteBackDatas(){
-            ExcelUtil.batchWriteBackDatas("src\\test\\resources\\cases_v7.xlsx");
+            ExcelUtil.batchWriteBackDatas(PropertiesUtil.getExcelPath());
     }
 
 }
