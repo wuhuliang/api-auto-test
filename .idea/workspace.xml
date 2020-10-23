@@ -26,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/BaseProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="38" column="72" lean-forward="true" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+            <state relative-caret-position="480">
+              <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1999#2000#0" expanded="true" />
@@ -38,45 +38,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/LoginCase.java">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="714">
+              <caret line="906" column="18" lean-forward="true" selection-start-line="906" selection-start-column="18" selection-end-line="906" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/AssertUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/JDBCUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" column="87" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/WriteBackData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -203,78 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="auto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="auto" type="462c0819:PsiDirectoryNode" />
-              <item name="cases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="auto" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="auto" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -361,12 +271,89 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto_test_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto_test_release" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603383275698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603384862768" />
     <property name="last_opened_file_path" value="E:/PyCharm_Projects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -497,6 +484,7 @@
       <workItem from="1603247233708" duration="10780000" />
       <workItem from="1603280051620" duration="1414000" />
       <workItem from="1603334659596" duration="6183000" />
+      <workItem from="1603422423202" duration="286000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1589083028468</created>
@@ -512,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589083368922</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交workspace文件">
+      <created>1603384777526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603384777526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -548,23 +543,22 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45732000" />
+    <option name="totallyTimeSpent" value="46332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13326226" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13432837" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32947975" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="3" side_tool="true" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32819384" />
@@ -590,7 +584,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="提交workspace文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交workspace文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -729,13 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-281">
-          <caret line="879" column="32" lean-forward="true" selection-start-line="879" selection-start-column="32" selection-end-line="879" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/LoginCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -769,6 +757,22 @@
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/CaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/pojo/Case.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -818,17 +822,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/util/CaseUtil.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        <state relative-caret-position="714">
+          <caret line="906" column="18" lean-forward="true" selection-start-line="906" selection-start-column="18" selection-end-line="906" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lemon/api/auto/cases/BaseProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="38" column="72" lean-forward="true" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+        <state relative-caret-position="480">
+          <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1999#2000#0" expanded="true" />
